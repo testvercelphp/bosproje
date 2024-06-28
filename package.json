@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "vercel": "^34.2.8",
     "vercel-php": "^0.3.6"
   }
 }
